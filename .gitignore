@@ -1,0 +1,15 @@
+.DS_Store
+
+# Dependency NODES
+node_modules/
+
+# Build Package Manager
+.build/
+Packages/
+Package.pins
+Package.resolved
+*.xcodeproj
+
+# Pods
+Pods/
+
