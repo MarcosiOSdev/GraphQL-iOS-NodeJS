@@ -1,7 +1,7 @@
 
 # Projeto com GraphQL.
 
-Neste projeto contém uma API em NodeJS e outra em VAPOR com Swift. 
+Neste projeto contém uma API em NodeJS e outra em VAPOR com Swift.<br/>
 [/ There are two APIS inside this project, vapor and nodeJs one]
 
 Você 
